@@ -1,0 +1,16 @@
+
+修改文件
+ApprovalList.aspx
+ApprovalList.aspx.cs
+HPDatabase.ascx
+HPDatabase.ascx.cs
+
+
+新增文件
+				|ApprovalListClone.aspx	   
+				|ApprovalListClone.aspx.cs   	
+路径 ROS\RATools.Web\Approval	|ApprovalDtsClone.aspx
+				|ApprovalDtsClone.aspx.cs
+
+				|HPDatabaseClone.ascx
+路径 ROS\RATools.Web\WebControl	|HPDatabaseClone.ascx.cs
